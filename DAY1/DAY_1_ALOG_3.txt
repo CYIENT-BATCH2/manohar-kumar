@@ -1,0 +1,6 @@
+in this case i have taken  float variables 
+We have to find radius of circle
+Then we have to take  formula of area of circle=PI*r*r
+PI value is=3.14
+r is represented radius 
+Using that formula we get total area of circle
