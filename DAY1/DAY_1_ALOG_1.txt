@@ -1,0 +1,4 @@
+1)here i have Taken the input from user
+2)check the number  which is divisible 11 ,reminder is  equal to one, logical or with reminder is equal to zero
+3)If condition is true then print special
+4)If condition is false then print not special
