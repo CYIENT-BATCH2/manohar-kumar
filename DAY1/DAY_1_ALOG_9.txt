@@ -1,0 +1,5 @@
+LOGIC GATES:
+here i have Taken the user has two inputs.
+if the both inputs are high in logical AND operator the output will be high.
+if any one of input are high in logical OR operator the output will be high.
+if the input as high the output will be low in NOT gate.
