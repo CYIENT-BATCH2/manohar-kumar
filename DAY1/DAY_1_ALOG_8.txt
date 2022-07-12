@@ -1,0 +1,2 @@
+Read the character from the user
+print the ASCII value of the character using %c format specifier
