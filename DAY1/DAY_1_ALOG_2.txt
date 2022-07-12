@@ -1,0 +1,4 @@
+here i have Taken the input from user (a,e,i,o,u)
+Then we have to check that vowel is present or not
+If the charcter is equal to vowel it will be print vowel 
+If the condition is false it print consonants.
