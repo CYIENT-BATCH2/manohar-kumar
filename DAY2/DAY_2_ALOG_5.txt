@@ -1,0 +1,4 @@
+Enter the number as input.
+if that character is betweem from '0' to '9' only the condition should be executed.
+if the above condition is true that ascii value should be added with 16.
+print the decoded as character
