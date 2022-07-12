@@ -1,0 +1,10 @@
+Start
+Read the nine numbers from user
+if first number greater than second number 
+        temp=a;
+        a=b;
+        b=temp;
+        goto loop;
+then continue the loop
+repeat the same for rest of the numbers
+print the numbers in asscending order
