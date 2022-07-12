@@ -1,0 +1,12 @@
+Read ten digit number from the user
+assign reverse=n
+check the entered number is within the range or not
+if n greater than 0
+j=j*10+n%10
+n=n/10
+if(n>0)
+continue the loop
+check the reversed number is equal to j
+print the number is pallindrome
+else 
+print the number is not palindrome
