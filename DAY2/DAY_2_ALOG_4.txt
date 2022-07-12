@@ -1,0 +1,4 @@
+Enter the lottery tickets as user.
+Using goto label that number is nor equal to zero.
+if the rem is equality of 3 the count should be increased .
+The count is greater than zero and print the count as the handshakes.
