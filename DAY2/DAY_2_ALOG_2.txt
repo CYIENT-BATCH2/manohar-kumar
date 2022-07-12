@@ -1,0 +1,4 @@
+User has taken the input as digit.
+We have to set the position as 7 using goto label.
+Use the logic as num>>pos&1.
+print the binary value.
