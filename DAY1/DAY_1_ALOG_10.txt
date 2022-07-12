@@ -1,0 +1,7 @@
+Weights among three people
+Taken the three inputs like x,y,z
+Each carries value as low or high.
+Compared to 'y'  'z' and 'x' value is greater means 'x' is high.
+Like that for same as 'y' and 'z' also.
+if 'x' is less than 'y' and 'y' is equality of 'z' then it will print 'y' and 'z' is bigger.
+Same thing is happened in each condition and print the largest weight among three.
