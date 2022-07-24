@@ -1,0 +1,6 @@
+Declare the variables array and size
+Read the size of the array from user
+Read the array elements from the user by using for loop
+Declare a pointer variable and assign the address of array to that pointer variable
+Sort the array elements by using pointer
+By using for loop print the sorted array

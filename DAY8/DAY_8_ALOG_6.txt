@@ -1,0 +1,4 @@
+Declare the variable as a T0CON for T0CON register value
+Set the register T0CON bits TMR0ON and PSA bits to 1 without disturbing the other bits
+Find out the value of T0PS2, T0PS1, T0PS0 bits in T0CON register if the value of the register is 0xF3
+print the value of T0PS2, T0PS1, T0PS0
