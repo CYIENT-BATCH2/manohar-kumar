@@ -1,0 +1,4 @@
+Initialize unsigned long int variable
+read the value from user
+swap the even bits with odd bits and odd bits with even bits
+print the result after swapping the bits
