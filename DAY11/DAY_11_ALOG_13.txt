@@ -1,0 +1,5 @@
+ALGORITHM:
+We have to taken the variable as first ,last and middle to search.
+Using if and else if condition doing some operation we should find the index values.
+Print the values in given position index.
+ 
