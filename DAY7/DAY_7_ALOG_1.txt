@@ -1,0 +1,5 @@
+Read the 8 bit value from user
+swap the lower four bits to higher four bits and store the value in a variable 1
+swap the higher four bits to lower four bits and store the value in a variable 2
+perform OR operation between variable 1 and variable2 and store the value in a result
+then result AND with 255 and print the value, that number is a big endian.
