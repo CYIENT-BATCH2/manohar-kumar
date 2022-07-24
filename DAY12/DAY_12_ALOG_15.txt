@@ -1,0 +1,3 @@
+Taken the array of strings and we have to print the position of array.
+We have to taken the empty strings and doing some operation we have to print CYIENT instead of empty strings.
+Print the position  and display it.
