@@ -1,4 +1,0 @@
-Initialize two variable ADCON0 and CMCON as a register names
-read the two value for ADCON0 and CMCON as a regiter values 
-check the bits CHS3,CHS2,CHS1,CHS0 bit of register is equal to 0x07 or not
-if CHS3,CHS2,CHS1,CHS0 value is equal to 0x07 then clear the bits CIS,CM2,CM1,CM0 in register CMCON 
